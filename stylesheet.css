@@ -1,0 +1,40 @@
+/*  Kevin Kraaijveld CSS Goedemorgen
+============================================================================
+
+1. Algemene CSS
+
+
+============================================================================ */
+
+
+/* 1. Algemene CSS
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+body{
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#groet{
+	font-size: 50px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px black;
+	text-align: center;
+	margin-top: 20%;
+}
+
+#tijd{
+	font-size: 40px;
+	color:	white;
+	font-weight: bold;
+	text-shadow: 2px 2px black;
+	text-align: center;
+}
+
+
+
+
+
+
+
+/*Made by Kevin Kraaijveld*/
