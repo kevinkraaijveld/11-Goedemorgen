@@ -30,4 +30,7 @@
   		}
 		?>
   </body>
+  <footer>
+        <p>&#169; Made by Kevin Kraaijveld</p>
+    </footer>
 </html>
