@@ -24,3 +24,6 @@ Het spel moet aan de volgende technische eisen voldoen:
 * De web pagina bestaat uit correct HTML en CSS.
 * Door gebruik te maken van PHP wordt de content en stijl van de pagina beinvloed.
 * Door gebruik te maken van de PHP functie [date()](http://php.net/manual/en/function.date.php) wordt het tijdstip bepaald.
+
+### Bekijk opdracht
+[Goedenmorgen](https://www.kevii.nl/opdrachten/11-goedemorgen/)
